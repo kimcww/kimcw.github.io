@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "kim chang woo"
+  name             : "Kim Chang Woo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm software engineer \nC++\npython"
+  bio              : "I'm software engineer"
   location         : "Korea"
   email            :
   links:
