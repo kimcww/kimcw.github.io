@@ -1,5 +1,5 @@
 ---
 title: "AdapterPattern"
-date: 2021-04-29 -0400
+date: 2021-05-05 -0400
 categories: DesignPattern
 ---
