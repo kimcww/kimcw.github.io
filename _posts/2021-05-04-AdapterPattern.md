@@ -14,7 +14,7 @@ categories: DesignPattern
 220V의 코드를 110V에서 사용하려면 중간에 변환 Adapter 가 필요하다
 프로그래밍에서도 그런 역할을 하는 Adapter가 필요할때가 있다
 
-![this is good image](./image/adapter.png)
+![this is good image](/image/adapter.png)
 
 출처 : (https://jusungpark.tistory.com/22)
 
