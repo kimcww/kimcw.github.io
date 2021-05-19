@@ -1,0 +1,19 @@
+---
+title : "Java?"
+date : 2021-05-19
+categories : Java
+---
+  
+  
+자바를 시작하기 전에 알면 좋은 용어들  
+
+  
+  
+(/image/JavaStructure.png)  
+
+JDK (Java Develop Kit ) : JRE + 개발을 위한 도구들이 포함
+  
+JRE ( Java Runtime Environment ) : JVM + Java 실행에 필요한 라이브러리  
+  
+JVM ( Java Vitual MAchine ) : Java 컴파일 후에 바이트 코드를 각 OS 별로 해석해주는 기능을 함  
+
