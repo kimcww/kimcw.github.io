@@ -11,7 +11,10 @@ categories : Java
   
 (/image/JavaStructure.png)  
 
-JDK (Java Develop Kit ) : JRE + 개발을 위한 도구들이 포함
+JDK (Java Develop Kit ) : JRE + 개발을 위한 도구들이 포함 
+
+컴파일러, 디버그 도구 등이 JDK 에 포함 되어 있음  
+
   
 JRE ( Java Runtime Environment ) : JVM + Java 실행에 필요한 라이브러리  
   
