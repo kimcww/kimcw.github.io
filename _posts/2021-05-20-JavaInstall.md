@@ -10,7 +10,7 @@ Eclipse 에서 Java 를 사용해보자
 
 사이트에 들어가면 아래와 같이 보인다  
 
-![java install_1](/image/JavaInstall.png)  
+![java install_1](/image/JavaInstall1.png)  
 
 Download x86_64 를 누르면 다운받는 창이 뜬다
 
