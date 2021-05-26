@@ -1,5 +1,5 @@
 ---
-title : "PostgreSQL"
+title : "PQXXLibrary"
 date : 2021-05-26
 categories : PostgreSQL
 ---
