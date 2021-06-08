@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "야근탈출왕"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "김창우\nkim chang woo"
+name                     : "kim chang woo"
 description              : "야근을 안하기 위한 노트"
 url                      : "https://kimcww.github.io"
 baseurl                  : ""
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kim Chang Woo"
+  name             : "김창우\nKim Chang Woo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm software engineer"
   location         : "Korea"
