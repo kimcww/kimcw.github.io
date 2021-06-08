@@ -1,5 +1,5 @@
 ---
-title : "install java"
+title : "[JAVA] Install java"
 date : 2021-05-20
 categories : install
 ---
