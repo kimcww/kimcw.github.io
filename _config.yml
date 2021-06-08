@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "김창우\nKim Chang Woo"
+  name             : "김창우"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm software engineer"
   location         : "Korea"
