@@ -8,8 +8,6 @@ view 는 사라지고 model은 view 에 뭔가 업데이트 하려는 상황을 
 queuedConnection 을 알게되었는데  
 좋은 해결책은 아니었다  
 그래도 간단히 개념을 정리해 놔야겠다  
-
-<br/>  
 <br/>  
 
 [Qt Connection Type](https://doc.qt.io/qt-5/qt.html#ConnectionType-enum)
