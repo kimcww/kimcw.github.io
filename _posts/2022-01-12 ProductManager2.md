@@ -1,6 +1,6 @@
 ---
-title : "[ProductManager] 시장조사
-date : 2022-01-11
+title : "[ProductManager] 시장조사"
+date : 2022-01-12
 categories : Product Manager
 ---
 
